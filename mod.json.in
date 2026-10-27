@@ -1,7 +1,7 @@
 {
-  "id": "com.example.my_mod",
-  "name": "My Mod",
-  "version": "@PROJECT_VERSION@",
-  "author": "You",
-  "description": "An example Dusklight mod"
+  "id": "com.xen.upside_down_link",
+  "name": "Dinnerbone Link",
+  "version": "0.0.7",
+  "author": "Xen",
+  "description": "A mod so simple, it should just be considered as a feature... This mod makes Link turn upside down, that's about it."
 }
